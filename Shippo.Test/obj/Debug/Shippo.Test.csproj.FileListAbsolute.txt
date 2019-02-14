@@ -1,0 +1,15 @@
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Shippo.Test.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Shippo.Test.pdb
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Shippo.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\bin\Debug\Shippo.pdb
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\obj\Debug\Shippo.Test.csprojAssemblyReference.cache
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\obj\Debug\Shippo.Test.csproj.CoreCompileInputs.cache
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\obj\Debug\Shippo.Test.csproj.CopyComplete
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\obj\Debug\Shippo.Test.dll
+C:\Users\DavidMaman\source\repos\Shippo\Shippo.Test\obj\Debug\Shippo.Test.pdb
