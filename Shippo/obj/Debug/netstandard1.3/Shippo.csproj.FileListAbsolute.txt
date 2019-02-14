@@ -1,0 +1,4 @@
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\netstandard1.3\Shippo.csprojAssemblyReference.cache
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\netstandard1.3\Shippo.csproj.CoreCompileInputs.cache
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\netstandard1.3\Shippo.AssemblyInfoInputs.cache
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\netstandard1.3\Shippo.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\net45\Shippo.csproj.CoreCompileInputs.cache
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\net45\Shippo.AssemblyInfoInputs.cache
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\net45\Shippo.AssemblyInfo.cs
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\bin\Debug\net45\Shippo.dll
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\bin\Debug\net45\Shippo.pdb
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\net45\Shippo.csproj.CopyComplete
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\net45\Shippo.dll
+C:\Users\DavidMaman\source\repos\ShipBob.Shippo\Shippo\obj\Debug\net45\Shippo.pdb
